@@ -27,3 +27,12 @@ we can include the library using include directive
 
 to call a function from the library we use 
     Function();
+
+
+3) Compiler: The compiler plays the role of translator converting C++ to binary
+the compiler is an important part because they generate error messages/syntax errors in our code that allows us to know about them
+
+A compiler can detect code errors
+human errors are those which are made by us meaning the code is technically correct but gives an output not the same as ours
+
+4) Comments: allow to organize and add messages in the code using //(single line comments) and /*(Multi line comments)*/
